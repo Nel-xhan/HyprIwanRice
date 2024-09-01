@@ -1,0 +1,10 @@
+[pyprland]
+plugins = [
+    "scratchpads"
+    #"shift_monitors",
+    #"workspaces_follow_focus",
+]
+
+[scratchpads.spotify]
+command="spotify"
+
